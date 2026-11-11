@@ -4,9 +4,6 @@ Eventify is a modern, fully responsive event management website built with **HTM
 
 > Built for the **K Explore – Web Designing** task: *Design and Develop a Responsive Event Management Website*.
 
-- 🔗 **Live Demo:** `https://<your-username>.github.io/eventify/` *(replace after deployment)*
-- 💻 **GitHub Repository:** `https://github.com/<your-username>/eventify` *(replace after pushing)*
-
 ---
 
 ## ✨ Features
